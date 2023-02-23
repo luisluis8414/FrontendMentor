@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Sono&display=swap');
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 6%;
+    margin: auto;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 100px;
+    padding: 10px;
+    
+}
+.card img {
+    border-radius: 4%;
+    width: 100%;
+}
+
+.card h2 {
+    font-size: 15px;
+    margin: 10px;
+    color: hsl(218, 44%, 22%);
+    font-weight: bold;
+    
+}
+
+.card p{
+    font-size: 10px;
+    margin: 10%;
+    margin-top: 0;
+    color:hsl(220, 15%, 55%);
+}
+
